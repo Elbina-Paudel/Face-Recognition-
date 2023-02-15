@@ -3,7 +3,7 @@
 # Face-Recognition-
 Face Recognition with Python &amp; OpenCV
 
-##Nice to know
+##Nice to know:
 This deep learning project teaches  how to develop human face recognition project with python libraries dlib and face_recognition APIs (of OpenCV).
 
 It also covers the introduction to face_recognition API. Implemented this python project in two parts:
