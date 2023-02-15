@@ -1,0 +1,8 @@
+known_face_encodings = []  
+known_face_names = []  
+
+
+for ref_id , embed_list in embed_dictt.items():
+    for my_embed in embed_list:
+        known_face_encodings +=[my_embed]
+        known_face_names += [ref_id]
